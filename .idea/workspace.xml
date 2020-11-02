@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="22c3db53-b661-4974-8366-e5f32ef5db71" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="netty-learn" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="netty-learn" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="netty-learn" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\idea\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jPgUIywgUWzo7lFikh9HeltY7i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../netty-rpc" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\learnProject\netty-learn\src\main\java\com\lsy\netty\customize\niotomcat" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GPApplication">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lsy.netty.customize.niotomcat.Application" />
+      <module name="netty-learn.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lsy.netty.customize.niotomcat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GPApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lsy.netty.customize.traditionaltomcat.GPApplication" />
+      <module name="netty-learn.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lsy.netty.customize.traditionaltomcat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GPTomcat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lsy.netty.customize.traditionaltomcat.GPTomcat" />
+      <module name="netty-learn.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lsy.netty.customize.traditionaltomcat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="netty-learn [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="netty-learn [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GPApplication" />
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Gradle.netty-learn [build]" />
+        <item itemvalue="Gradle.netty-learn [clean]" />
+        <item itemvalue="Application.GPTomcat" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22c3db53-b661-4974-8366-e5f32ef5db71" name="Default Changelist" comment="" />
+      <created>1603711155810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603711155810</updated>
+      <workItem from="1603711157327" duration="2827000" />
+      <workItem from="1603716016124" duration="51713000" />
+      <workItem from="1604135780841" duration="1345000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="757" y="443" key="#com.intellij.ide.util.MemberChooser" timestamp="1604053057602">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="757" y="443" key="#com.intellij.ide.util.MemberChooser/0.40.1920.1040@0.40.1920.1040" timestamp="1604053057602" />
+    <state x="740" y="300" key="FileChooserDialogImpl" timestamp="1604135787685">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="740" y="300" key="FileChooserDialogImpl/0.40.1920.1040@0.40.1920.1040" timestamp="1604135787685" />
+    <state width="1877" height="300" key="GridCell.Tab.0.bottom" timestamp="1604063045310">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="300" key="GridCell.Tab.0.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1604063045310" />
+    <state width="1877" height="300" key="GridCell.Tab.0.center" timestamp="1604063045310">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="300" key="GridCell.Tab.0.center/0.40.1920.1040@0.40.1920.1040" timestamp="1604063045310" />
+    <state width="1877" height="300" key="GridCell.Tab.0.left" timestamp="1604063045310">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="300" key="GridCell.Tab.0.left/0.40.1920.1040@0.40.1920.1040" timestamp="1604063045310" />
+    <state width="1877" height="300" key="GridCell.Tab.0.right" timestamp="1604063045310">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="300" key="GridCell.Tab.0.right/0.40.1920.1040@0.40.1920.1040" timestamp="1604063045310" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1604063045306">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1604063045306" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1604063045306">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.40.1920.1040@0.40.1920.1040" timestamp="1604063045306" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1604063045306">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.40.1920.1040@0.40.1920.1040" timestamp="1604063045306" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1604063045306">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.40.1920.1040@0.40.1920.1040" timestamp="1604063045306" />
+    <state x="540" y="294" key="IDE.errors.dialog" timestamp="1603878682565">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="540" y="294" key="IDE.errors.dialog/0.40.1920.1040@0.40.1920.1040" timestamp="1603878682565" />
+    <state x="461" y="204" key="SettingsEditor" timestamp="1604282337947">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="461" y="204" key="SettingsEditor/0.40.1920.1040@0.40.1920.1040" timestamp="1604282337947" />
+    <state x="318" y="249" width="1251" height="631" key="new project wizard" timestamp="1604054677442">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="318" y="249" width="1251" height="631" key="new project wizard/0.40.1920.1040@0.40.1920.1040" timestamp="1604054677442" />
+    <state x="499" y="401" width="672" height="678" key="search.everywhere.popup" timestamp="1604048178243">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="499" y="401" width="672" height="678" key="search.everywhere.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1604048178243" />
+  </component>
+</project>

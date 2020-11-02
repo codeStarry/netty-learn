@@ -1,0 +1,34 @@
+plugins {
+    id 'java'
+}
+
+group 'com.lsy.netty'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+
+//设置字符编码
+compileJava.options.encoding('UTF-8')
+compileTestJava.options.encoding('UTF-8')
+javadoc.options.encoding('UTF-8')
+
+
+dependencies {
+    implementation "io.netty:netty-all:4.1.21.Final"
+}
+
+//编译时控制台乱码
+tasks.withType(JavaCompile) {
+    options.encoding('UTF-8')
+}
+
+task cpRes(type: Copy) {
+    from sourceSets.main.resources
+    into sourceSets.main.java.outputDir
+    processResources.exclude {"**/*.*"}
+}
+processResources.dependsOn(cpRes)
+
