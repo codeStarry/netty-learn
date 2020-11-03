@@ -8,19 +8,12 @@ package com.lsy.netty.algorithm;
 public class PrimeNumber {
     public static void main(String[] args) {
         //PrimeNumber.chickenRabbit();
-        PrimeNumber number = new PrimeNumber();
-        number.test();
+
     }
 
-    public void test() {
-        String s = this.getClass().getResource("/").getPath();
-        System.out.println(s);
-    }
-
-    public static void isPrimeNumber() {
-        int a = 91;
+    public static void isPrimeNumber(int a) {
         for (int i = 2; i < a; i++) {
-            if ((a % i) == 0) {
+            if ((a & i) != 0) {
                 System.out.println(a + "，是素数");
                 return;
             }

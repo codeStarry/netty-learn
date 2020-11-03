@@ -1,7 +1,7 @@
 com/lsy/netty/thirdexample/MyChatClientHandler.java
  com.lsy.netty.thirdexample.MyChatClientHandler
-com/lsy/netty/algorithm/PrimeNumber.java
- com.lsy.netty.algorithm.PrimeNumber
+com/lsy/netty/customize/traditionaltomcat/SecondServlet.java
+ com.lsy.netty.customize.traditionaltomcat.SecondServlet
 com/lsy/netty/thirdexample/MyChatClient.java
  com.lsy.netty.thirdexample.MyChatClient
 com/lsy/netty/buffer/DirectBuffer.java
@@ -53,8 +53,8 @@ com/lsy/netty/thirdexample/MyChantInitializer.java
  com.lsy.netty.thirdexample.MyChantInitializer
 com/lsy/netty/customize/niotomcat/NettyGPResponse.java
  com.lsy.netty.customize.niotomcat.NettyGPResponse
-com/lsy/netty/customize/traditionaltomcat/GPApplication.java
- com.lsy.netty.customize.traditionaltomcat.GPApplication
+com/lsy/netty/customize/traditionaltomcat/FirstServlet.java
+ com.lsy.netty.customize.traditionaltomcat.FirstServlet
 com/lsy/netty/customize/niotomcat/Application.java
  com.lsy.netty.customize.niotomcat.Application
 com/lsy/netty/customize/traditionaltomcat/GPServlet.java
@@ -75,7 +75,13 @@ com/lsy/netty/customize/traditionaltomcat/GPTomcat.java
  com.lsy.netty.customize.traditionaltomcat.GPTomcat
 com/lsy/netty/customize/traditionaltomcat/GPRequest.java
  com.lsy.netty.customize.traditionaltomcat.GPRequest
-com/lsy/netty/customize/traditionaltomcat/SecondServlet.java
- com.lsy.netty.customize.traditionaltomcat.SecondServlet
-com/lsy/netty/customize/traditionaltomcat/FirstServlet.java
- com.lsy.netty.customize.traditionaltomcat.FirstServlet
+com/lsy/netty/customize/traditionaltomcat/GPApplication.java
+ com.lsy.netty.customize.traditionaltomcat.GPApplication
+com/lsy/netty/websocket/WebsocketServer.java
+ com.lsy.netty.websocket.WebsocketServer
+com/lsy/netty/algorithm/PrimeNumber.java
+ com.lsy.netty.algorithm.PrimeNumber
+com/lsy/netty/websocket/WebsocketChannelInitializer.java
+ com.lsy.netty.websocket.WebsocketChannelInitializer
+com/lsy/netty/websocket/WebsocketChannelHandler.java
+ com.lsy.netty.websocket.WebsocketChannelHandler
