@@ -6,6 +6,10 @@ package com.lsy.netty.aio;
  */
 public class Test {
     public static void main(String[] args) {
-        
+       float data = 0.75f;
+       long buff;
+       int i;
+       char s [] = new char[34];
+
     }
 }
